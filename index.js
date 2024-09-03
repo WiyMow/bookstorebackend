@@ -8,7 +8,8 @@ const db = mysql2.createConnection({
     host:"fdb1028.awardspace.net",
     user: "4522293_bookstore",
     password: "0[:dkzhg8%;]mom#",
-    database: "4522293_bookstore"
+    database: "4522293_bookstore",
+    port: "3306"
 })
 
 // if there is a auth problem
