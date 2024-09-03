@@ -7,7 +7,7 @@ const app = express();
 const db = mysql2.createConnection({
     host:"fdb1028.awardspace.net",
     user: "4522293_bookstore",
-    password: "09124301216@mow",
+    password: "0[:dkzhg8%;]mom#",
     database: "4522293_bookstore"
 })
 
